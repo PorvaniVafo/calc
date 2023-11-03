@@ -54,6 +54,4 @@ Contributions to improve the calculator application or its user interface are we
 - This project was created as a simple example of Java and JavaFX GUI development.
 - It may serve as a starting point for learning and experimenting with Java and GUI programming.
 
----
 
-Feel free to customize this README to include additional information or make it more specific to your project. Providing clear instructions on how to run and use the application is essential for users and potential contributors.
